@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "IBM Bold";
+  src: url("../fonts/IBMPlex/woff2/IBMPlexSansArabic-Bold.woff2") format("woff2"),
+       url("../fonts/IBMPlex/woff/IBMPlexSansArabic-Bold.woff") format("woff"),
+	   url("../fonts/IBMPlex/otf/IBMPlexSansArabic-Bold.otf") format("opentype"),
+	   url("../fonts/IBMPlex/eot/IBMPlexSansArabic-Bold.eot") format("embedded-opentype"),
+	   url("../fonts/IBMPlex/ttf/IBMPlexSansArabic-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "IBM ExtraLight";
+  src: url("../fonts/IBMPlex/woff2/IBMPlexSansArabic-ExtraLight.woff2") format("woff2"),
+       url("../fonts/IBMPlex/woff/IBMPlexSansArabic-ExtraLight.woff") format("woff"),
+	   url("../fonts/IBMPlex/otf/IBMPlexSansArabic-ExtraLight.otf") format("opentype"),
+	   url("../fonts/IBMPlex/eot/IBMPlexSansArabic-ExtraLight.eot") format("embedded-opentype"),
+	   url("../fonts/IBMPlex/ttf/IBMPlexSansArabic-ExtraLight.ttf") format("truetype");
+}
+@font-face {
+  font-family: "IBM Light";
+  src: url("../fonts/IBMPlex/woff2/IBMPlexSansArabic-Light.woff2") format("woff2"),
+       url("../fonts/IBMPlex/woff/IBMPlexSansArabic-Light.woff") format("woff"),
+	   url("../fonts/IBMPlex/otf/IBMPlexSansArabic-Light.otf") format("opentype"),
+	   url("../fonts/IBMPlex/eot/IBMPlexSansArabic-Light.eot") format("embedded-opentype"),
+	   url("../fonts/IBMPlex/ttf/IBMPlexSansArabic-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "IBM Medium";
+  src: url("../fonts/IBMPlex/woff2/IBMPlexSansArabic-Medium.woff2") format("woff2"),
+       url("../fonts/IBMPlex/woff/IBMPlexSansArabic-Medium.woff") format("woff"),
+	   url("../fonts/IBMPlex/otf/IBMPlexSansArabic-Medium.otf") format("opentype"),
+	   url("../fonts/IBMPlex/eot/IBMPlexSansArabic-Medium.eot") format("embedded-opentype"),
+	   url("../fonts/IBMPlex/ttf/IBMPlexSansArabic-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "IBM SemiBold";
+  src: url("../fonts/IBMPlex/woff2/IBMPlexSansArabic-SemiBold.woff2") format("woff2"),
+       url("../fonts/IBMPlex/woff/IBMPlexSansArabic-SemiBold.woff") format("woff"),
+	   url("../fonts/IBMPlex/otf/IBMPlexSansArabic-SemiBold.otf") format("opentype"),
+	   url("../fonts/IBMPlex/eot/IBMPlexSansArabic-SemiBold.eot") format("embedded-opentype"),
+	   url("../fonts/IBMPlex/ttf/IBMPlexSansArabic-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IBM Text";
+  src: url("../fonts/IBMPlex/woff2/IBMPlexSansArabic-Text.woff2") format("woff2"),
+       url("../fonts/IBMPlex/woff/IBMPlexSansArabic-Text.woff") format("woff"),
+	   url("../fonts/IBMPlex/otf/IBMPlexSansArabic-Text.otf") format("opentype"),
+	   url("../fonts/IBMPlex/eot/IBMPlexSansArabic-Text.eot") format("embedded-opentype"),
+	   url("../fonts/IBMPlex/ttf/IBMPlexSansArabic-Text.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IBM Thin";
+  src: url("../fonts/IBMPlex/woff2/IBMPlexSansArabic-Thin.woff2") format("woff2"),
+       url("../fonts/IBMPlex/woff/IBMPlexSansArabic-Thin.woff") format("woff"),
+	   url("../fonts/IBMPlex/otf/IBMPlexSansArabic-Thin.otf") format("opentype"),
+	   url("../fonts/IBMPlex/eot/IBMPlexSansArabic-Thin.eot") format("embedded-opentype"),
+	   url("../fonts/IBMPlex/ttf/IBMPlexSansArabic-Thin.ttf") format("truetype");
+}
+
